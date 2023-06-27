@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 """Comment"""
-
-
 def pascal_triangle(n):
     """Comment"""
     if n <= 0:
